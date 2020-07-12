@@ -8,7 +8,7 @@ https://www.patreon.com/mousepotato
 
 If you subscribe you will receive years worth of experience, collation of resources and ideas in testing. Spanning automation, performance, security, SEO, API, manual, accessibility and compatibility testing.
 
-![Logo](images/Logo.JPG)
+![Logo](Logo.JPG)
 <!--
 **RobBrowning/RobBrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
