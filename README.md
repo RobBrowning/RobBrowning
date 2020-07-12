@@ -1,4 +1,14 @@
-### Hi there 👋
+# Rob Browning 
+
+## I'm a QA/Test Manager with over 12 years experience in testing. 
+
+Most of repositories are private and slowly I am publishing them on Patroen.
+
+https://www.patreon.com/mousepotato
+
+If you subscribe you will receive years worth of experience, collation of resources and ideas in testing. Spanning automation, performance, security, SEO, API, manual, accessibility and compatibility testing.
+
+![Logo](https://github.com/RobBrowning/RobBrowning/images/Logo.png)
 
 <!--
 **RobBrowning/RobBrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
