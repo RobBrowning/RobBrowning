@@ -1,6 +1,6 @@
 # Rob Browning 
 
-## I'm a QA/Test Manager with over 12 years experience in testing. 
+## I'm a QA Automation Engineer with over 12 years experience in testing. 
 
 Most of repositories are private and slowly I am publishing them on Patroen.
 
