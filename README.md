@@ -1,14 +1,6 @@
 # Rob Browning 
 
-## I'm a QA Automation Engineer with over 12 years experience in testing. 
-
-Most of repositories are private and slowly I am publishing them on Patroen.
-
-https://www.patreon.com/mousepotato
-
-If you subscribe you will receive years worth of experience, collation of resources and ideas in testing. Spanning automation, performance, security, SEO, API, manual, accessibility and compatibility testing.
-
-- 🔭 I’m currently working on my Cypress private repository
+## I'm a QA Automation Engineer with over 16 years experience in testing. 
 
 ### Connect with me 
 [<img align="left" alt="patroen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
