@@ -1,30 +1,33 @@
-# Rob Browning 
+# Hi, I'm Rob Browning
 
-## I'm a QA Automation Engineer with over 16 years experience in testing. 
+**QA lead and test automation engineer with 18+ years in testing, including time as Head of QA.**
+Based in Somerset, UK.
 
-### Connect with me 
-[<img align="left" alt="patroen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I build test strategies, automation frameworks and, lately, AI-assisted QA workflows that make teams faster *without* lowering the bar. I care about acceptance criteria, clear documentation and tests that each earn their place: **less better, not more faster.**
 
-<br>
+## What I've been working on
 
-### Languages and tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cypress.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mocha.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
+- **AI-assisted QA:** a chain of Claude Code skills and agents that hunts live test data, drafts test checklists, writes bug reports and runs a *blind verifier* that independently re-checks findings before anything is raised.
+- **Framework migration:** moved a production web E2E suite from WebdriverIO to **Playwright + TypeScript** inside a dual-platform (native app + web) monorepo.
+- **Release visibility:** built a release dashboard tracking Jira releases, environments and progress for a web team.
+- **QA strategy and playbooks:** authored a multi-team QA strategy, an AI-assisted QA playbook and an environment field guide used by engineers day to day.
 
+## Start here
 
+| Repo | What it shows |
+|---|---|
+| [**playwright-qa-showcase**](https://github.com/RobBrowning/playwright-qa-showcase) | Playwright + TypeScript against public demo apps: page objects, fixtures, UI + API tests, CI matrix, test strategy and ADRs |
 
-[website]: https://www.patreon.com/mousepotato
-[twitter]: https://twitter.com/robbrowning82
-[linkedin]: https://www.linkedin.com/in/robert-browning-highbridge/
+Most of my professional work lives in private company repos. The showcase repo is where I put the same patterns in public.
+
+## Toolbox
+
+- **Automation:** Playwright · Cypress · WebdriverIO · Appium · Jest · Puppeteer · CodeceptJS · Postman
+- **Languages:** TypeScript · JavaScript · C# (NUnit)
+- **CI and quality:** GitHub Actions · Jenkins · Lighthouse · Artillery · accessibility testing
+- **Test management:** Jira · Zephyr Scale · Confluence
+- **AI tooling:** Claude Code (skills, agents, MCP servers)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/robert-browning-highbridge/)
