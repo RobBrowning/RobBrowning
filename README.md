@@ -17,8 +17,9 @@ I build test strategies, automation frameworks and, lately, AI-assisted QA workf
 | Repo | What it shows |
 |---|---|
 | [**playwright-qa-showcase**](https://github.com/RobBrowning/playwright-qa-showcase) | Playwright + TypeScript against public demo apps: page objects, fixtures, UI + API tests, CI matrix, test strategy and ADRs |
+| [**cypress-qa-showcase**](https://github.com/RobBrowning/cypress-qa-showcase) | The same suite, test for test, in Cypress + TypeScript: page objects, `cy.session` login, `@cypress/grep` tags, axe accessibility checks, UI + API tests, CI matrix, and an ADR comparing the two frameworks |
 
-Most of my professional work lives in private company repos. The showcase repo is where I put the same patterns in public.
+Most of my professional work lives in private company repos. The two showcase repos are where I put the same patterns in public, built twice so you can compare how Playwright and Cypress handle the same problems.
 
 ## Toolbox
 
