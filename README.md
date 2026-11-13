@@ -8,7 +8,7 @@ I build test strategies, automation frameworks and, lately, AI-assisted QA workf
 ## What I've been working on
 
 - **AI-assisted QA:** a chain of Claude Code skills and agents that hunts live test data, drafts test checklists, writes bug reports and runs a *blind verifier* that independently re-checks findings before anything is raised.
-- **Framework migration:** moved a production web E2E suite from WebdriverIO to **Playwright + TypeScript** inside a dual-platform (native app + web) monorepo.
+- **Framework migration:** helped to move a production web E2E suite from WebdriverIO to **Playwright + TypeScript** inside a dual-platform (native app + web) monorepo.
 - **Release visibility:** built a release dashboard tracking Jira releases, environments and progress for a web team.
 - **QA strategy and playbooks:** authored a multi-team QA strategy, an AI-assisted QA playbook and an environment field guide used by engineers day to day.
 
