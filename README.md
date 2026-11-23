@@ -18,8 +18,9 @@ I build test strategies, automation frameworks and, lately, AI-assisted QA workf
 |---|---|
 | [**playwright-qa-showcase**](https://github.com/RobBrowning/playwright-qa-showcase) | Playwright + TypeScript against public demo apps: page objects, fixtures, UI + API tests, CI matrix, test strategy and ADRs |
 | [**cypress-qa-showcase**](https://github.com/RobBrowning/cypress-qa-showcase) | The same suite, test for test, in Cypress + TypeScript: page objects, `cy.session` login, `@cypress/grep` tags, axe accessibility checks, UI + API tests, CI matrix, and an ADR comparing the two frameworks |
+| [**llm-qa-showcase**](https://github.com/RobBrowning/llm-qa-showcase) | Testing an AI chatbot: a RAG help bot on local Hugging Face models, checked in layers (facts, refusals, prompt-injection attacks, toxicity, an independent LLM judge that must pass calibration first), with seeded defects and a hold-out set. Fixed one change per commit, failed attempts included |
 
-Most of my professional work lives in private company repos. The two showcase repos are where I put the same patterns in public, built twice so you can compare how Playwright and Cypress handle the same problems.
+Most of my professional work lives in private company repos. The showcase repos are where I put the same patterns in public: the Playwright and Cypress twins are built test for test so you can compare the two frameworks, and the LLM showcase applies the same discipline to testing AI.
 
 ## Toolbox
 
